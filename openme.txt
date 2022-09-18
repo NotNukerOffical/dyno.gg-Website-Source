@@ -1,0 +1,1 @@
+open the dyno.gg then index.html
